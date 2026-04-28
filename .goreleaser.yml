@@ -54,8 +54,5 @@ changelog:
       - "^chore:"
 
 release:
-  github:
-    owner: renansj
-    name: r0zscope
   draft: false
   prerelease: auto
